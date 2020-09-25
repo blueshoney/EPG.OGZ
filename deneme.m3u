@@ -1,31 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="    beIN SPORTS 1 | F  " tvg-logo="http://176.9.134.196:2086/logos/bein1-f  .png" group-title="TR ➾ beIN SPORTS",    beIN SPORTS 1 | F  
-http://gold.kingotv.club:8080/duranogz/duran44/1895
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="    beIN Sports 1 TR " tvg-logo="http://176.9.134.196:2086/logos/bein1-  .png" group-title="TR ➾ beIN SPORTS",    beIN Sports 1 TR   
-http://gold.kingotv.club:8080/duranogz/duran44/1896
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="    beIN Sports 2 TR" tvg-logo="http://176.9.134.196:2086/logos/beins2  .png" group-title="TR ➾ beIN SPORTS",    beIN Sports 2 TR  
-http://gold.kingotv.club:8080/duranogz/duran44/1898
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="    beIN SPORTS 2 | F  " tvg-logo="http://176.9.134.196:2086/logos/beins2f  .png" group-title="TR ➾ beIN SPORTS",    beIN SPORTS 2 | F  
-http://gold.kingotv.club:8080/duranogz/duran44/1899
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="    beIN Sports 3 TR " tvg-logo="http://176.9.134.196:2086/logos/bein3  .png" group-title="TR ➾ beIN SPORTS",    beIN Sports 3 TR 
-http://gold.kingotv.club:8080/duranogz/duran44/1900
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="    beIN SPORTS 3 | F  " tvg-logo="http://176.9.134.196:2086/logos/bein3f  .png" group-title="TR ➾ beIN SPORTS",    beIN SPORTS 3 | F  
-http://gold.kingotv.club:8080/duranogz/duran44/1901
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="    beIN Sports 4 TR " tvg-logo="http://176.9.134.196:2086/logos/bein4  .png" group-title="TR ➾ beIN SPORTS",    beIN Sports 4 TR 
-http://gold.kingotv.club:8080/duranogz/duran44/1902
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="    beIN SPORTS 4 | F  " tvg-logo="http://176.9.134.196:2086/logos/bein4f  .png" group-title="TR ➾ beIN SPORTS",    beIN SPORTS 4 | F  
-http://gold.kingotv.club:8080/duranogz/duran44/1903
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="    beIN Sports Max 1 TR   " tvg-logo="http://176.9.134.196:2086/logos/beinmax1  .png" group-title="TR ➾ beIN SPORTS",    beIN Sports Max 1 TR   
-http://gold.kingotv.club:8080/duranogz/duran44/1904
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="    beIN SPORTS MAX 1 F  " tvg-logo="http://176.9.134.196:2086/logos/beinmax1f  .png" group-title="TR ➾ beIN SPORTS",    beIN SPORTS MAX 1 F  
-http://gold.kingotv.club:8080/duranogz/duran44/1905
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="    beIN Sports Max 2 TR " tvg-logo="http://176.9.134.196:2086/logos/beinmax2  .png" group-title="TR ➾ beIN SPORTS",    beIN Sports Max 2 TR  
-http://gold.kingotv.club:8080/duranogz/duran44/1906
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="    beIN SPORTS MAX 2 F  " tvg-logo="http://176.9.134.196:2086/logos/beinmax2f  .png" group-title="TR ➾ beIN SPORTS",    beIN SPORTS MAX 2 F  
-http://gold.kingotv.club:8080/duranogz/duran44/1907
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="    TRT Spor   " tvg-logo="http://176.9.134.196:2086/logos/trtspor  .png" group-title="TR ➾ SPOR",    TRT SPOR   
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="    TRT Spor   " tvg-logo="http://176.9.134.196:2086/logos/trtspor  .png" group-title="TR ➾ SPOR",    TRT Spor 
 http://gold.kingotv.club:8080/duranogz/duran44/1921
-#EXTINF:-1 tvg-id="TRT Spor" tvg-name="    TRT SPOR F  " tvg-logo="http://176.9.134.196:2086/logos/trtsporf  .png" group-title="TR ➾ SPOR",    TRT SPOR F  
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="    TRT Spor  " tvg-logo="http://176.9.134.196:2086/logos/trtsporf  .png" group-title="TR ➾ SPOR",    TRT Spor 
 http://gold.kingotv.club:8080/duranogz/duran44/24724
-#EXTINF:-1 tvg-id="Trt Spor 2 " tvg-name="    Trt Spor 2  " tvg-logo="http://176.9.134.196:2086/logos/trtspor2f  .png" group-title="TR ➾ SPOR",    TRT SPOR 2 F  
+#EXTINF:-1 tvg-id="Trt Spor 2 " tvg-name="    Trt Spor 2  " tvg-logo="http://176.9.134.196:2086/logos/trtspor2f  .png" group-title="TR ➾ SPOR",    TRT Spor 2 
 http://gold.kingotv.club:8080/duranogz/duran44/1923
