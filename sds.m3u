@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MovieSmart Türk   -TR" tvg-name="    MOVIESMART Turk" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-turk.png" group-title="TR ➾ beIN & DSMART",    MOVIESMART Turk
+http://gold.kingotv.club:8080/duranogz/duran44/2007
+#EXTINF:-1 tvg-id="MovieSmart Premium" tvg-name="    MovieSmart Premium" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-premium1.png" group-title="TR ➾ beIN & DSMART",    MovieSmart Premium
+http://gold.kingotv.club:8080/duranogz/duran44/2004
+#EXTINF:-1 tvg-id="MovieSmart Premium 2" tvg-name="    MovieSmart Premium 2" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-premium2.png" group-title="TR ➾ beIN & DSMART",    MovieSmart Premium 2
+http://gold.kingotv.club:8080/duranogz/duran44/2005
+#EXTINF:-1 tvg-id="MovieSmart Platin" tvg-name="    MovieSmart Platin" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-platin1.png" group-title="TR ➾ beIN & DSMART",    MovieSmart Platin
+http://gold.kingotv.club:8080/duranogz/duran44/2002
+#EXTINF:-1 tvg-id="MovieSmart Platin 2" tvg-name="    MovieSmart Platin 2" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-platin2.png" group-title="TR ➾ beIN & DSMART",    MovieSmart Platin 2
+http://gold.kingotv.club:8080/duranogz/duran44/2003
+#EXTINF:-1 tvg-id="" tvg-name="    MOVIESMART Action" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-action.png" group-title="TR ➾ beIN & DSMART",    MOVIESMART Action
+http://gold.kingotv.club:8080/duranogz/duran44/2006
+#EXTINF:-1 tvg-id="moviesmartfamily.tr" tvg-name="    MOVIESMART Family" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-family.png" group-title="TR ➾ beIN & DSMART",   MOVIESMART Family
+http://gold.kingotv.club:8080/duranogz/duran44/2008
+#EXTINF:-1 tvg-id="" tvg-name="    MOVIESMART Fest" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-fest.png" group-title="TR ➾ beIN & DSMART",    MOVIESMART Fest
+http://gold.kingotv.club:8080/duranogz/duran44/2009
+#EXTINF:-1 tvg-id="" tvg-name="    MOVIESMART | Classic F  " tvg-logo="http://176.9.134.196:2086/logos/moviesmart-classic.png" group-title="TR ➾ beIN & DSMART",    MOVIESMART | Classic F  
+http://gold.kingotv.club:8080/duranogz/duran44/2010
+#EXTINF:-1 tvg-id="MovieSmart Gold" tvg-name="  MovieSmart Gold" tvg-logo="http://176.9.134.196:2086/logos/moviesmart-gold.png" group-title="TR ➾ beIN & DSMART",    MovieSmart Gold
+http://gold.kingotv.club:8080/duranogz/duran44/2011
