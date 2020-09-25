@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="    TRT Spor   " tvg-logo="http://176.9.134.196:2086/logos/trtspor  .png" group-title="TR ➾ SPOR",    TRT Spor 
+http://gold.kingotv.club:8080/duranogz/duran44/1921
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="    TRT Spor  " tvg-logo="http://176.9.134.196:2086/logos/trtsporf  .png" group-title="TR ➾ SPOR",    TRT Spor 
+http://gold.kingotv.club:8080/duranogz/duran44/24724
+#EXTINF:-1 tvg-id="Trt Spor 2 " tvg-name="    Trt Spor 2  " tvg-logo="http://176.9.134.196:2086/logos/trtspor2f  .png" group-title="TR ➾ SPOR",    TRT Spor 2 
+http://gold.kingotv.club:8080/duranogz/duran44/1923
